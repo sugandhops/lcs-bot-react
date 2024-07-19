@@ -1,0 +1,19 @@
+# Dependency directories
+/node_modules
+
+# Production build directory
+/build
+/.next
+/dist
+
+# Environment variables
+.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
